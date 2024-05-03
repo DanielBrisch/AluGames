@@ -12,7 +12,6 @@ fun main() {
     gamer1.let {
         it.birthDate = "18/09/2000"
         it.user = "JackSkyWalker"
-        it.idInterno = "1"
     }
 
     println(gamer1)
